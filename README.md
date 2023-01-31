@@ -1,6 +1,8 @@
 # ReadPDF
 link for more detail how i do it:https://medium.com/@ethan.duong1120/today-i-used-a-little-python-at-work-6d06bdf9cc30 
+
 Using Python to read pdf files and verify files that contain specific substrings.
+
 I worked as a technical assistant, and part of my job is support people with disability in computer operations. Last shift, a blind man request me support him to read all pdf resumes to locate a specific key word.
 
 I immediately think why don’t use this opportunity to implement sub code to read all pdf files and locate the key words in each resume.
